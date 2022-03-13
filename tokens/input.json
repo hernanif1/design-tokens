@@ -32,7 +32,7 @@
   "space": {
     "form": {
       "bottom": {
-        "value": "10opx",
+        "value": "10px",
         "type": "spacing"
       }
     }
