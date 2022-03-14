@@ -2,30 +2,72 @@
   "font": {
     "form": {
       "title2": {
-        "value": {
-          "fontFamily": "Arial Black",
-          "fontWeight": "Regular",
-          "lineHeight": "AUTO",
-          "fontSize": 18,
-          "letterSpacing": "0%",
-          "paragraphSpacing": 0,
-          "textDecoration": "none",
-          "textCase": "none"
+        "fontFamily": {
+          "value": "Arial Black",
+          "type": "fontFamily"
         },
-        "type": "typography"
+        "fontWeight": {
+          "value": "Regular",
+          "type": "fontWeight"
+        },
+        "lineHeight": {
+          "value": "AUTO",
+          "type": "lineHeight"
+        },
+        "fontSize": {
+          "value": 18,
+          "type": "fontSize"
+        },
+        "letterSpacing": {
+          "value": "0%",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "paragraphSpacing"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration"
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase"
+        }
       },
       "label": {
-        "value": {
-          "fontFamily": "Arial",
-          "fontWeight": "Regular",
-          "lineHeight": "AUTO",
-          "fontSize": 18,
-          "letterSpacing": "0%",
-          "paragraphSpacing": 0,
-          "textDecoration": "none",
-          "textCase": "none"
+        "fontFamily": {
+          "value": "Arial",
+          "type": "fontFamily"
         },
-        "type": "typography"
+        "fontWeight": {
+          "value": "Regular",
+          "type": "fontWeight"
+        },
+        "lineHeight": {
+          "value": "AUTO",
+          "type": "lineHeight"
+        },
+        "fontSize": {
+          "value": 18,
+          "type": "fontSize"
+        },
+        "letterSpacing": {
+          "value": "0%",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "paragraphSpacing"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration"
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase"
+        }
       }
     }
   },

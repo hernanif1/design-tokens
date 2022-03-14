@@ -1,11 +1,25 @@
 /**
  * Do not edit directly
- * Generated on Sun, 13 Mar 2022 16:10:45 GMT
+ * Generated on Mon, 14 Mar 2022 10:26:48 GMT
  */
 
 :root {
-  --font-form-title2: [object Object];
-  --font-form-label: [object Object];
+  --font-form-title2-font-family: Arial Black;
+  --font-form-title2-font-weight: Regular;
+  --font-form-title2-line-height: AUTO;
+  --font-form-title2-font-size: 18;
+  --font-form-title2-letter-spacing: 0%;
+  --font-form-title2-paragraph-spacing: 0;
+  --font-form-title2-text-decoration: none;
+  --font-form-title2-text-case: none;
+  --font-form-label-font-family: Arial;
+  --font-form-label-font-weight: Regular;
+  --font-form-label-line-height: AUTO;
+  --font-form-label-font-size: 18;
+  --font-form-label-letter-spacing: 0%;
+  --font-form-label-paragraph-spacing: 0;
+  --font-form-label-text-decoration: none;
+  --font-form-label-text-case: none;
   --space-form-bottom: 10px;
   --color-form-button-background: #4e4bff;
   --color-form-button-text: #000000;
